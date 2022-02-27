@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on building cool microservices in the fintech world
 - 🌱 I’m currently learning a lot of stuff. Interested on machine learning projects and also devops tools.
 - 👯 I’m looking to collaborate on any kind of project!
-- 💬 Ask me about anything on my blog https://binarymindset.com
+- 💬 Ask me about anything on my blog https://binarymindset.com / https://github.com/binary-mindset
 - 📫 How to reach me: ivan.pf.89@gmail.com
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: Appart from that, I have some normal person hobbies like electronic music or gym. I speak 3 languages, and looking forward to keep improving my german 🇩🇪
@@ -39,7 +39,7 @@
 <a href="https://www.linkedin.com/in/ivanperezfernandez/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="50" width="210" target="_blank" style="border-radius: 50%;"></a> 
 </div>
 
-<br>
+<br><br>
 
 <div align="center">
   <a href="https://github.com/ivan1405">
