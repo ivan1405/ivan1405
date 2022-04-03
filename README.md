@@ -35,7 +35,7 @@
 <br>
 
 <div align="center">
-<a href="https://www.buymeacoffee.com/ivan.perez"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ivan.perez" /></a>
+<a href="https://www.buymeacoffee.com/ivan.perez"> <img align="center" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="50" width="210" alt="ivan.perez" /></a>
 <a href="https://www.linkedin.com/in/ivanperezfernandez/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="50" width="210" target="_blank" style="border-radius: 50%;"></a> 
 </div>
 
