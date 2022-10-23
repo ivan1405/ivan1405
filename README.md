@@ -1,6 +1,6 @@
 ## Hi there, welcome to my Github page!! 👋
 
-![Follow](https://img.shields.io/github/followers/ivan1405.svg?style=social&label=Follow&maxAge=2592000)
+![Follow](https://img.shields.io/github/followers/ivan1405.svg?style=social&label=Followers&maxAge=2592000)
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
