@@ -9,7 +9,6 @@
 - 👯 I’m looking to collaborate on any kind of project!
 - 💬 Ask me about anything on my blog https://binarymindset.com / https://github.com/binary-mindset
 - 📫 How to reach me: ivan.pf.89@gmail.com
-- 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: Appart from that, I have some normal person hobbies like electronic music or gym. I speak 3 languages, and looking forward to keep improving my german 🇩🇪
 
 ## ⚡ Technologies
